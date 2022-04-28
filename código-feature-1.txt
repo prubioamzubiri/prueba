@@ -3,8 +3,10 @@ funcion1(a)
 
     b = funcionA(a);
 
+if(prec(c))
+{
     c = funcionB(b);
-
+}
     return c;
 
 }
