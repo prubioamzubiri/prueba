@@ -1,0 +1,10 @@
+funcion1(a)
+{
+
+    b = funcionA(a);
+
+    c = funcionB(b);
+
+    return c;
+
+}
